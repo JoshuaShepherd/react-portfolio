@@ -39,11 +39,11 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
    npm run dev
    ```
 
-   Open [http://localhost:3001](http://localhost:3001) in your browser.
+   Open [http://localhost:3002](http://localhost:3002) in your browser.
 
 ## Available Scripts
 
-- `npm run dev` - Start development server on port 3001
+- `npm run dev` - Start development server on port 3002
 - `npm run build` - Create production build
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
